@@ -2,7 +2,7 @@
 
 int stack = 0;
 
-int main() {
+int main(void) {
     int ch;
 
     while ((ch = getchar()) != EOF) {
