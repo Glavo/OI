@@ -1,1 +1,1 @@
-set(SOURCE_FILES p1739.cpp)
+add_executable(p1739 p1739.c)
